@@ -11,7 +11,7 @@ An in-depth paragraph about your project and overview of use.
 ### Dependencies
 
 Use CSS3 and HTML5 latest features. Be sure to prefix andy
-bleeding-edge rules, tags, etc (see canius) Also using latest ES6/next, you should probably think about including Babel for transpilation (or an NPM script).
+bleeding-edge rules, tags, etc (see [caniuse]([GitHub](http://github.com))) Also using latest ES6/next, you should probably think about including Babel for transpilation (or an NPM script).
 
 ### Installing
 
