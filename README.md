@@ -1,3 +1,5 @@
+![TRAA Logo](../images/traa_logo-MASTER.jpg)
+
 # TRAA Midterm Review
 
 Going over some stuff alot of people got wrong in class for the midterm. Just to make sure it doesnt happen again.
